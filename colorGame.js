@@ -1,6 +1,6 @@
 let numSquares = 6;
-const colors = [];
-let pickedColor;
+let colors = [];
+let pickedColor = "";
 const squares = document.querySelectorAll(".square");
 const colorDisplay = document.getElementById("colorDisplay");
 const messageDisplay = document.querySelector("#message");
